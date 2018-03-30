@@ -1,8 +1,11 @@
-Developed a Quadtree generating application, 
-learned to plot mathematical functions using gnupot. 
+Developed a Quadtree application
+for University of Leeds Programming Project module.
 
-Developed the code in C,
-got accustomed to working with larger code
-splitting up the project into smaller pieces 
-and testing with pre-programmed tests. 
-Improved in report writing process.
+This program:
+- generates and destroys a quadtree, so no memory is lost
+  hence avoiding memory leaks;
+- grows the tree by one level with or without a limit set
+- can plot mathematical equations with the help of gnuplot.
+
+Code developed in C
+
